@@ -16,6 +16,11 @@ li{
 
 }
 
+.nav-list:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    color: red;
+}
 .nav-container{
     background-color: #1F2937;
     padding: 15px 40px 15px 40px;
@@ -63,4 +68,20 @@ h1{
     border-radius: 30px;
 
 
+}
+
+.nav-order{
+    background-color: aquamarine;
+    border-radius: 30px;
+    width: 80px;
+    color: #1F2937;
+    text-align: center;
+
+
+}
+
+.btn-Discover:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    color: red;
 }
