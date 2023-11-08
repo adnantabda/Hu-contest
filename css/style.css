@@ -85,3 +85,70 @@ h1{
     cursor: pointer;
     color: red;
 }
+
+.second-section{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2{
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+    text-align: center;
+}
+
+.feature-clothe{
+    display: flex;
+    gap : 60px;
+    justify-self: center;
+    margin-top: 20px;
+    align-items: center;
+
+}
+
+.img-cloth{
+    height: auto;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px 0 rgba(0, 0, 0, 0.479);
+}
+
+
+.third-section{
+    margin-top: 40px;
+    background-color: #e5e7eb;
+    font-size: 26px;
+    text-align: left;
+    font-family: light italic;
+}
+
+
+.qt{
+    margin-top: 60px;
+}
+
+.action{
+    text-align: center;
+    width: 1000px;
+    background-color: rgb(91, 156, 253);
+    border-radius: 18px;
+}
+
+.fourth-section{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer{
+    background-color: #1F2937;
+    text-align: center;
+    margin-top: 20px;
+    height: 80px;
+    color: white;
+}
